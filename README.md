@@ -1,4 +1,4 @@
-## ENG - Example of Work
+## images
 
 <img src="images/example_2.png" alt="" width="250" height="250"> <img src="images/example_1.png" alt="" width="250" height="250"> <img src="images/example_3.png" alt="" width="250" height="250">
 
@@ -21,10 +21,6 @@ Description of the files and the files themselves are only in a private copy
 The closed project uses the `MIT` license.
 
 #
-
-## RUS - Пример работы
-
-<img src="images/example_2.png" alt="" width="250" height="250"> <img src="images/example_1.png" alt="" width="250" height="250"> <img src="images/example_3.png" alt="" width="250" height="250">
 
 ## Как посмотреть код?
 
