@@ -1,6 +1,6 @@
 ## images
 
-<img src="images/example_4.png" alt="" width="250" height="250">
+<img src="images/example_4.png" alt="" width="250" height="250"> <img src="images/example_5.png" alt="" width="250" height="250">
 
 ## How to View the Code?
 
