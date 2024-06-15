@@ -4,7 +4,7 @@
 
 ## How to View the Code?
 
-This project is private. For additional information, contact @xAvakov via Telegram.
+For more information, contact via [Telegram](https://t.me/xAvakov).
 
 ## Note
 
@@ -16,7 +16,7 @@ The closed project uses the `MIT` license.
 
 ## Как посмотреть код?
 
-Этот проект находится в закрытом доступе, для дополнительной информации связавшись с @xAvakov через Telegram
+Для дополнительной информации свяжитесь через [Telegram](https://t.me/xAvakov).
 
 ## Примечание
 
